@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f, #1a2a6c);
+  background: linear-gradient(135deg, #ff0b0b, #0dff7a, #0033ff);
   color: white;
   text-align: center;
   min-height: 100vh;
@@ -44,7 +44,7 @@ p { font-size: 1.2rem; color: #e0e0ff; }
 
 /* Botón principal */
 .camera-button {
-  background: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+  background: linear-gradient(to right, #e2d669 0%, #2575fc 100%);
   color: white; border: none;
   padding: 18px 50px;
   font-size: 1.4rem;
